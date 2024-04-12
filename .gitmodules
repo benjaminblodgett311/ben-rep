@@ -1,0 +1,6 @@
+[submodule "libraries"]
+	path = libraries
+	url = https://github.com/benjaminblodgett311/opengl-glfw3-libraries
+[submodule "ben-rep-res"]
+	path = ben-rep-res
+	url = https://github.com/benjaminblodgett311/ben-rep-res

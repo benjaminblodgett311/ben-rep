@@ -1,3 +1,6 @@
-imgui/
-res
-cards
+.vs
+*.sln
+*.vcxproj
+*.filters
+*.user
+x64
