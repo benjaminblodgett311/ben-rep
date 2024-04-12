@@ -8,7 +8,6 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/benjaminblodgett311/ben-rep.git
-
 ```
 
 ## Step 2: Create Visual Studio Project
@@ -38,8 +37,9 @@ Open a terminal under "View" or press Ctrl+`.
 
 ```bash
 git submodule init
+```
+```bash
 git submodule update
-
 ```
 
 ## Step 5: Include Files in Project
