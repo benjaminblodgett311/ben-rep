@@ -37,8 +37,8 @@ git clone https://github.com/benjaminblodgett311/ben-rep.git
 Open a terminal under "View" or press Ctrl+`.
 
 ```bash
-git submodule add https://github.com/benjaminblodgett311/ben-rep-res res
-git submodule add https://github.com/benjaminblodgett311/opengl-glfw3-libraries libraries
+git submodule init
+git submodule update
 
 ```
 
