@@ -36,10 +36,7 @@ git clone https://github.com/benjaminblodgett311/ben-rep.git
 Open a terminal under "View" or press Ctrl+`.
 
 ```bash
-git submodule init
-```
-```bash
-git submodule update
+git submodule update --init
 ```
 
 ## Step 5: Include Files in Project
